@@ -1,3 +1,6 @@
+/**
+ * This is a test file.
+ */
 package com.example.demo;
 
 import org.junit.jupiter.api.Test;
